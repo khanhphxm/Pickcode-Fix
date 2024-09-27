@@ -6,8 +6,8 @@
 // @author       Khanh Pham
 // @match        https://app.pickcode.io/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/khanhphxm/Pickcode-Fix/main/fix.js
-// @updateURL    https://raw.githubusercontent.com/khanhphxm/Pickcode-Fix/main/fix.js
+// @downloadURL  https://raw.githubusercontent.com/khanhphxm/Pickcode-Fix/main/fix.user.js
+// @updateURL    https://raw.githubusercontent.com/khanhphxm/Pickcode-Fix/main/fix.user.js
 // ==/UserScript==
 
 (function () {
