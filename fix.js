@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name        PickCode ANSI Color Fixer
-// @namespace   Violentmonkey Scripts
-// @match       https://app.pickcode.io/*
-// @grant       none
-// @version     1.0
-// @author      Khanh Pham
-// @description 9/26/2024, 5:35:56 PM
+// @name         PickCode ANSI Color Fixer
+// @namespace    https://github.com/khanhphxm
+// @version      1.0
+// @description  A userscript that enables ANSI color and styling support in PickCode, allowing enhanced visibility and formatting of terminal output.
+// @author       Khanh Pham
+// @match        https://app.pickcode.io/*
+// @grant        none
+// @downloadURL  https://raw.githubusercontent.com/khanhphxm/Pickcode-Fix/main/fix.js
+// @updateURL    https://raw.githubusercontent.com/khanhphxm/Pickcode-Fix/main/fix.js
 // ==/UserScript==
 
 (function () {
