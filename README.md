@@ -40,7 +40,7 @@ To enable ANSI escape code styling on PickCode, you need to install the `fix.use
 
 3. **Verify Installation:**
    - After installation, click on the userscript manager icon in your browser.
-   - Ensure that `fix.user.js` is listed and enabled.
+   - Ensure that `PickCode ANSI Color Fixer` is listed and enabled.
 
 4. **Refresh PickCode:**
    - Once the script is installed and active, refresh the PickCode page to apply the changes.
@@ -65,4 +65,3 @@ By following these steps, the ANSI escape codes will be recognized in PickCode, 
 **With Fix:**
 ![Fix ON](https://media.discordapp.net/attachments/1027348371507257386/1289025746903367710/6A1D9D08-C766-4393-9D2D-360B3CBFE9F5.png?ex=66f75247&is=66f600c7&hm=5c09844131eabb2ff006bda2538a9b03b4f24241cf2c6359cb61b30aaa490714&=&format=webp&quality=lossless)
 
-By following these steps, you can effectively enable ANSI escape code styling in PickCode, enhancing the appearance and readability of your program outputs.
